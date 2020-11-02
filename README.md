@@ -4,7 +4,8 @@ Upload file over web from your server to computer. In addition, it support QR co
 
 ## Installation
 
-```go get github.com/wen8386/go-web-file-upload
+```
+   go get github.com/wen8386/go-web-file-upload
    
    cd $GOPATH/src/github.com/wen8386/go-web-file-upload
    
