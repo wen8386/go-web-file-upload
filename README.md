@@ -16,7 +16,7 @@ Upload file over web from your server to computer. In addition, it support QR co
     
 ```
 
-![avatar](https://github.com/wen8386/go-web-file-upload/tree/main/screenshot.png)
+![avatar](https://github.com/wen8386/go-web-file-upload/blob/main/upload/screenshot.png)
 
 
 
